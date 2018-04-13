@@ -1,1 +1,2 @@
 This is text file 2 with some text in it.
+This is a text file 2 with lot of text in it.
